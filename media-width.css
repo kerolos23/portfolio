@@ -1,0 +1,378 @@
+
+@media(max-width:1124px){
+    .header{
+        padding: 5px 90px;
+    }
+    .header p{
+        font-size: 1.3em;
+        font-weight: 700;
+    }
+
+    .links a{
+        font-size: 1/2em;
+        padding-left: 10px ;
+    }
+
+    .section{
+        min-height: 60vh;
+        padding: 130px 60px;
+    }
+
+    .section h2{
+        font-size: 1.2em;
+        font-weight: 800;
+    }
+    
+    .section h2 span{
+        font-size: 2.4em;
+    }
+    
+    .section h3{
+        font-size: 1.4em;
+    }
+
+    .btm{
+        font-size: 1.4em;
+    }
+}
+
+@media(max-width:601px){
+    .header{
+        padding: 5px 20px;
+    }
+
+    .header p{
+        font-size: 1.2em;
+        font-weight: 700;
+    }
+
+    .links a{
+        font-weight: 550;
+        font-size: .8em;
+        padding-left: 9px ;
+    }
+
+    .section{
+        padding: 76px 30px;
+    }
+
+    .section h2{
+        font-size: 1em;
+    }
+
+    .section h2 span{
+        margin-top: 0em;
+        font-size: 2.2em;
+    }
+
+    .section h3{
+        font-size: 1em;
+        margin-bottom: 4px;
+    }
+    
+    .btm{
+        padding: 4px 6px;
+        font-size: 1em;
+        margin-bottom: 10px;
+    }
+
+    .title{
+        padding: 10px;
+    }
+
+    .card {
+        width: 19em;
+        border-radius: 8px;
+        padding: 8px; 
+    }
+
+    .icon{
+        font-size: 6em;
+    }
+
+    .card-pro{
+        width: 20em;
+    }
+
+    .foot{ 
+        padding: 1em;
+    }
+
+    .p-foot{
+        font-size: .7em;
+        font-weight: 700;
+    }
+
+    .links-foot a{
+        font-size: .8em;
+        padding-left: 6px;
+    }
+}
+   
+@media(max-width:430px){
+    .header{
+        padding: 5px 20px;
+    }
+
+    .header p{
+        font-size: 1.5em;
+        font-weight: 700;
+    }
+
+    .links a{
+        font-weight: 550;
+        font-size: .9em;
+        padding-left: 10px ;
+    }
+
+    .section{
+        width: 100%;
+        min-height: 100%;
+        align-items: center;
+        padding: 76px 30px;
+    }
+
+    .section h2{
+        font-size: 1em;
+    }
+
+    .section h2 span{
+        margin-top: .1em;
+        font-size: 2.2em;
+    }
+
+    .section h3{
+        font-size: 1em;
+        margin-bottom: 5px;
+    }
+    
+    .btm{
+        padding: 5px 7px;
+        font-size: 1em;
+        margin-bottom: 20px;
+    }
+
+    .media a{
+        font-size: 1.1em;
+        padding-right: 10px;
+    }
+
+    .title{
+        padding: 7px;
+    }
+
+    .card {
+        width: 20em;
+        border-radius: 8px;
+        padding: 10px; 
+    }
+
+    .icon{
+        font-size: 6em;
+    }
+
+    .write h2{
+        text-align: center;
+        font-size: 1.2em;
+    }
+
+    .write p{
+        font-size: .8em;
+    }
+
+    .card-pro{
+        width: 23em;
+    }
+
+    .foot{ 
+        padding: 1.3em;
+    }
+
+    .p-foot{
+        font-size: .8em;
+        font-weight: 700;
+    }
+
+    .links-foot a{
+        font-size: 1em;
+        padding-left: 8px ;
+    }
+}
+
+@media(max-width:390px){
+    .section h2{
+        font-size: .7em;
+    }
+
+    .section h2 span{
+        font-size: 2.5em;
+    }
+
+    .section h3{
+        font-size: .8em;
+    }
+
+    .btm{
+        font-size: .8em;
+        margin-bottom: 15px;
+    }
+}
+
+@media(max-width:361px){
+    .header p{
+        font-size: 1.2em;
+    }
+
+    .links a{
+        font-size: .8em;
+        padding-left: 6px;
+    }
+
+    .section{
+        padding: 65px 30px;
+    }
+
+    .section h2{
+        font-size: .8em;
+    }
+
+    .section h2 span{
+        font-size: 2em;
+    }
+
+    .section h3{
+        font-size: .8em;
+    }
+
+    .btm{
+        font-size: .8em;
+        margin-bottom: 15px;
+    }
+
+}
+
+@media(max-width:330px){
+    .links a{
+        font-size: .7em;
+        padding-left: 4px;
+    }
+
+    .section h2{
+        font-size: .7em;
+    }
+
+    .section h3{
+        font-size: .7em;
+    }
+
+    .media a{
+        font-size: 1em;
+        padding-right: 8px;
+    }
+
+    .btm{
+        margin-bottom: 10px;
+    }
+
+    .card{
+        width: 17em;
+    }
+
+    .foot{ 
+        padding: 1.1em;
+    }
+
+    .p-foot{
+        font-size: .6em;
+        font-weight: 700;
+    }
+
+    .links-foot a{
+        font-size: .9em;
+        padding-left: 6px ;
+    }
+}
+
+@media(max-width:280px){
+    .header{
+        padding: 0px 5px;
+    }
+
+    .header p{
+        font-size: .9em;
+    }
+
+    .links a{
+        font-size: .6em;
+        padding-left: 3px;
+    }
+
+    .section{
+        padding: 40px 30px;
+        background-position: 0 20px;
+    }
+
+    .section h2{
+        font-size: .6em;
+    }
+
+    .section h2 span{
+        font-size: 1.7em;
+    }
+
+    .section h3{
+        font-size: .6em;
+    }
+
+    .btm{
+        font-size: .7em;
+        margin-bottom: 6px;
+    }
+
+    .media a{
+        font-size: .9em;
+    }
+
+    .card{
+        width: 13em;
+        padding: 9px;
+        margin: 8px;
+    }
+
+    .icon{
+        font-size: 4em;
+    }
+
+    .write h2{
+        font-size: .9em;
+    }
+
+    .write p{
+        font-size: .6em;
+    }
+
+    .card-pro{
+        min-height: 10em;
+    }
+    
+    .info{
+        font-size: .7em;
+        padding: 5px;
+        margin-left: 3px;
+    }
+
+    .foot{ 
+        padding: 0.6em;
+    }
+
+    .p-foot{
+        font-size: .4em;
+        font-weight: 600;
+    }
+
+    .links-foot a{
+        font-size: .7em;
+        padding-left: 4px ;
+    }
+    
+}

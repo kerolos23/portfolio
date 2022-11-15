@@ -1,0 +1,25 @@
+
+.foot{
+    display: flex;
+    background-color: rgb(5, 5, 90);
+    justify-content: space-between;
+    color: #fff;
+    padding: 1.7em;
+    margin-top: 40px;
+}
+.p-foot{
+    color: rgb(255, 255, 255);
+    font-size: 1.2em;
+    font-weight: 800;
+}
+
+.links-foot a{
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-left: 20px ;
+}
+
+.p-foot span{
+    color: rgb(34, 64, 235);
+}

@@ -1,0 +1,78 @@
+
+.certif{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-image: linear-gradient( -2deg, rgb(5, 5, 94) 9%, white 90%);
+}
+
+.cards-cr{
+    display: flex;;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.certif title{
+    display: flex;
+    color: rgb(34, 64, 235);
+    font-size: 2.3em;
+    font-weight: 800;
+    align-content: center;
+    padding: 20px;
+}
+
+.card-certif{
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 2px;
+    width: 25em;
+    min-height: 10em;
+    overflow: hidden;
+    transition: 1s ease;
+    margin: 10px 9px 20px 9px;
+}
+
+.card-certif:hover{
+    transform: scale(1.1);
+}
+
+.certif-img img{
+    width: 100%;
+    padding-top: 8px;
+    height: 16em;
+}
+
+.par-certif{
+    padding: 3px 0px 0px 8px;
+    font-size: 1.1em;
+    font-weight: 800;
+}
+
+.part-certif a{
+    text-decoration: none;
+    color: rgb(34, 64, 235);
+    font-size: 1.1em;
+    font-weight: 700;
+    padding: 0px 4px 10px 10px;
+}
+
+.part-certif a:hover{
+    color: blueviolet;
+}
+
+.card-certiff{
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 2px;
+    width: 25em;
+    height: 21em;
+    overflow: hidden;
+    transition: 1s ease;
+    margin: 10px 9px 20px 9px;
+}
+
+.card-certiff:hover{
+    transform: scale(1.1);
+}

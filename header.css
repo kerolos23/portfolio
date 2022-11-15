@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    width: 100%;
+    background-color: rgb(230, 220, 220);
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 999;
+    padding: 10px 150px;
+}
+.header p{
+    color: rgb(29, 11, 192);
+    font-size: 1.875em;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.links a{
+    font-weight: 600;
+    font-size: 1.1em;
+    color: rgb(34, 64, 235);
+    text-decoration: none;
+    padding-left: 20px ;
+}
+
+.links a:hover{
+    color: brown;
+}

@@ -1,0 +1,58 @@
+
+.project{
+    background-image: linear-gradient(180deg, rgb(5, 5, 94) 10%, white 90%);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.project content{
+    margin-top: 30px;
+}
+
+.card-pro{
+    background-color: #fff;
+    border: 1px solid #000;
+    min-height: 14em;
+    width: 25em;
+    overflow: hidden;
+    border-radius: 15px;
+    margin: 20px;
+    transition: 0.7s ease;
+}
+
+.card-pro:hover{
+    transform: scale(1.1);
+    opacity: 70%;
+}
+
+.image-project img{
+    width: 100%;
+}
+
+.info{
+    font-size: .8em;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.titles{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4px;
+    text-transform: uppercase;
+
+}
+
+.titles a{
+    text-decoration: none;
+    font-weight: 800;
+    color: rgb(34, 64, 235);
+}
+
+.titles a:hover{
+    color: blueviolet;
+}
+
+.cont{
+    margin-bottom: 50px;
+}
